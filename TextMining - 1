@@ -1,0 +1,4 @@
+Text mining:
+
+Starting off with text mining requires one to understand the concept of bag of words. Specifically, it is essential to know to split a sting into its words. 
+A simple way to do this is using the str.split() in python and storing the words in a list. 
